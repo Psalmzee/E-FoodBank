@@ -1,0 +1,32 @@
+about us
+contact us
+privacy
+notification
+help and support
+donate
+
+rating
+
+admin - donors
+admin - beneficiaries
+
+help and support
+
+pictures to change
+
+more details on admin profile page
+people assisted under donor
+
+other details/features to (donor, beneficiary and admin)
+
+
+
+to do
+
+*edit beneficiary settings form
+*edit admin settings form
+*separate navbar
+*button effects
+*login and register carousel image - change
+
+E-foodbank

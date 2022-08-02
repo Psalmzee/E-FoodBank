@@ -1,0 +1,60 @@
+.admin-side-left {
+    background: rgba(224, 222, 222, 0.1);
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.1);
+    /* height: auto; */
+}
+
+.admin-side-left a {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    border-radius: 30px;
+    display: block;
+    padding: 10px;
+}
+
+.admin-side-left a:hover{
+    color: white;
+    background: #FF7A00;
+    transition: ease-in-out 0.4s !important;
+}
+
+.admin-side-left .admin-side-active {
+    background: #FF7A00;
+    color: white;
+}
+
+.admin-side-right p {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 52px;
+}
+
+.admin-side-right h3 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 52px;
+}
+
+.admin-side-right td {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 52px;
+}
+
+.admin-donors h3 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    /* line-height: 52px; */
+}

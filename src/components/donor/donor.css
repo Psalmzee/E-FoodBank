@@ -1,0 +1,90 @@
+.donor-social a {
+    text-decoration: none;
+    color: #FF7A00;
+    font-size: 25px;
+}
+  
+.donor-social a:hover {
+    color: #383838 !important;
+    transition: ease-in-out 0.5s !important;
+}
+
+.donor-social .donor-rating {
+    color: #FF7A00;
+    font-size: 25px;
+}
+
+.beneficiary h3 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 52px;
+    text-align: center;
+}
+
+.benficiary-card {
+    font-family: Poppins;
+}
+
+.benficiary-card h5 {
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
+.benficiary-card i {
+    color: #FF7A00;
+}
+
+.benficiary-card a {
+    text-decoration: none;
+    color: white;
+}
+
+.benficiary-card a:hover {
+    color: #FF7A00 !important;
+    background-color: white;
+    border: 1px solid #FF7A00;
+    transition: ease-in-out 0.5s !important;
+}
+
+.profile-form a {
+    text-decoration: none;
+    color: white;
+}
+
+.profile-form a:hover {
+    color: #FF7A00 !important;
+    background-color: white;
+    border: 1px solid #FF7A00;
+    transition: ease-in-out 0.5s !important;
+}
+
+.donate h3 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.donate span {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+
+.fund-btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.fund-btn a:hover {
+    color: #FF7A00 !important;
+    background-color: white;
+    border: 1px solid #FF7A00;
+    transition: ease-in-out 0.5s !important;
+}
